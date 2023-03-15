@@ -40,3 +40,8 @@ img {
     border: black;
     border-style: solid;
 }
+.noborderimg {
+    width: 300px;
+    border-style: hidden;
+    float: center;
+}
